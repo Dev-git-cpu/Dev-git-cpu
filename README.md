@@ -1,6 +1,6 @@
 #  Hi, I'm Dev Sonone  
 
-💻 **Java Developer | Backend & Full-Stack Enthusiast**  
+ **Java Developer | Backend & Full-Stack Enthusiast**  
 I focus on building clean, maintainable, and scalable applications using **Java and Spring Boot**,  
 with a solid understanding of frontend integration and database design.
 
@@ -69,8 +69,8 @@ with a solid understanding of frontend integration and database design.
 
 ##  Profiles
 
-💼 **LinkedIn**  
-👉 https://www.linkedin.com/in/devsonone  
+ **LinkedIn**  
+ https://www.linkedin.com/in/devsonone  
 
 ---
 
