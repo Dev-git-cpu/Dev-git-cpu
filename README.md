@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dev Sonone  
+#  Hi, I'm Dev Sonone  
 
 💻 **Java Developer | Backend & Full-Stack Enthusiast**  
 I focus on building clean, maintainable, and scalable applications using **Java and Spring Boot**,  
@@ -6,7 +6,7 @@ with a solid understanding of frontend integration and database design.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - Strong foundation in **Core Java, OOPs, and Collections**
 - Experience working with **Spring Boot, Hibernate, and RESTful APIs**
@@ -16,9 +16,9 @@ with a solid understanding of frontend integration and database design.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🌐 Frontend
+###  Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -26,19 +26,19 @@ with a solid understanding of frontend integration and database design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
 </p>
 
-### 🗄️ Database & ORM
+###  Database & ORM
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-### 🧰 Build & Tools
+###  Build & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -48,7 +48,7 @@ with a solid understanding of frontend integration and database design.
 
 ---
 
-## 🧩 How I Work
+##  How I Work
 
 - Prefer **layered architecture** for clarity and maintainability
 - Focus on **readable code and meaningful naming**
@@ -58,7 +58,7 @@ with a solid understanding of frontend integration and database design.
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 - Backend application architecture  
 - REST API design & best practices  
@@ -67,7 +67,7 @@ with a solid understanding of frontend integration and database design.
 
 ---
 
-## 🔗 Profiles
+##  Profiles
 
 💼 **LinkedIn**  
 👉 https://www.linkedin.com/in/devsonone  
